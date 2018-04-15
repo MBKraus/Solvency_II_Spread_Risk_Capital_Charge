@@ -1,6 +1,6 @@
 # Python script for calculating the spread risk solvency capital charge ("SCR") under Solvency II (along the standard formula)
 
-This script calculates the spread risk SCR percentage and spread risk MV capital charge an insurer needs to maintain for a portfolio of both bonds and loans (other than residential mortgages) and covered bonds (along the standard formula of Solvency II).
+This script calculates the spread risk SCR percentage and spread risk MV capital charge an insurer needs to maintain for a portfolio of both 1) bonds and loans (other than residential mortgages) and 2) covered bonds (along the standard formula of Solvency II).
 
 A sample bond portfolio file (in CSV) is attached to this repository. A print screen of this portfolio file and its corresponding SCR charges (per this script) are shown below.
 
