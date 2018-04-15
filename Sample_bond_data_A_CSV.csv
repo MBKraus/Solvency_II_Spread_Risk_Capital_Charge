@@ -1,0 +1,9 @@
+Name;Rating_class;Coupon;MV_EUR;Modified_duration;Covered_bond;Non_EEA_sovereign_issue_in_dom_curr;Issue_from_entity_not_meeting_MCR
+Bond A;0;1.5;433;200;0;0;0
+Bond B;1;2.1;132;20;0;0;0
+Bond C;2;3.1;98;9;0;0;0
+Bond D;3;4.1;231;10;1;0;0
+Bond E;4;8.1;532;25;0;0;0
+Bond F;5;3.1;36;16;0;0;0
+Bond G;6;5.4;245;5;1;0;0
+Bond H;7;15;145;25;0;0;0
