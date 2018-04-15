@@ -14,23 +14,23 @@ Please note - this script requires the following packages / modules in order to 
 
 ```
      Name  Rating_class  Coupon  MV_EUR  Modified_duration  Covered_bond  \
-0  Bond A             0     1.5     433                176             0
-1  Bond B             1     2.1     132                 20             0
-2  Bond C             2     3.1      98                  9             0
-3  Bond D             3     4.1     231                 10             1
-4  Bond E             4     8.1     532                 25             0
-5  Bond F             5     3.1      36                 16             0
-6  Bond G             6     5.4     245                  5             1
-7  Bond H             7    15.0     145                 25             0
+0  Bond A             0     1.5     433                200             0   
+1  Bond B             1     2.1     132                 20             0   
+2  Bond C             2     3.1      98                  9             0   
+3  Bond D             3     4.1     231                 10             1   
+4  Bond E             4     8.1     532                 25             0   
+5  Bond F             5     3.1      36                 16             0   
+6  Bond G             6     5.4     245                  5             1   
+7  Bond H             7    15.0     145                 25             0   
 
-   Non_EEA_sovereign_issue_in_dom_curr  Issue_from_entity_not_meeting_MCR
-0                                    0                                  0
-1                                    0                                  0
-2                                    0                                  0
-3                                    0                                  0
-4                                    0                                  0
-5                                    0                                  0
-6                                    0                                  0
+   Non_EEA_sovereign_issue_in_dom_curr  Issue_from_entity_not_meeting_MCR  
+0                                    0                                  0   
+1                                    0                                  0   
+2                                    0                                  0   
+3                                    0                                  0   
+4                                    0                                  0   
+5                                    0                                  0   
+6                                    0                                  0   
 7                                    0                                  0
 ```
 
